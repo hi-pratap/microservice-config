@@ -1,0 +1,11 @@
+build:
+  version: "1.0-Production"
+
+accounts:
+  message: "welcome Production to Pratap Account related api in files System"
+  contactDetails:
+    name: "Pratap Adhav - Production"
+    email: "pratap@Production.com"
+  onCallSupport:
+    - 11111111111
+  

@@ -1,0 +1,12 @@
+build:
+  version: "3.0-default"
+
+accounts:
+  message: "welcome to Pratap Account related api"
+  contactDetails:
+    name: "Pratap Adhav - Developer"
+    email: "pratap@gmail.com"
+  onCallSupport:
+    - 11111111111
+    - 22222222222
+

@@ -1,0 +1,11 @@
+build:
+  version: "2.0-QA"
+
+accounts:
+  message: "welcome QAAAA to Pratap Account related api"
+  contactDetails:
+    name: "Pratap Adhav - QA-Tester"
+    email: "pratap@QATester.com"
+  onCallSupport:
+    - 11111111111
+    - 22222222222
