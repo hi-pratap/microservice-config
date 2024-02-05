@@ -5,7 +5,7 @@ accounts:
   message: "welcome Production to Pratap Account related api in files System"
   contactDetails:
     name: "Pratap Adhav - Production"
-    email: "pratap@Production.com"
+    email: "{cipher}aae10b7a40b0ec26fdbfd057cd4550a8e74c2e1d89e1831671a26ea712bb24406a7bb220828219b192e834f19217d5f1"
   onCallSupport:
     - 11111111111
   
